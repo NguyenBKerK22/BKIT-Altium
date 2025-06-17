@@ -1,0 +1,304 @@
+[
+U3
+FP-AMS1117-IPC_A
+AMS1117-3.3
+
+
+
+]
+[
+JP1
+JP 2X8 DT
+2x8_JUMPER_STRAIGHT
+
+
+
+]
+[
+R8
+TRO SMD 0603
+R_0603 1% 1R
+
+
+
+]
+[
+R7
+TRO SMD 0603
+R_0603 1% 1R
+
+
+
+]
+[
+C17
+CAP POL 6032_280
+22uF_Tantalum_Capacitor
+
+
+
+]
+[
+Y1
+Thach Anh 2 Chan SMD
+8MHz
+
+
+
+]
+[
+U2
+VREG_LM2596S-ADJ/NOPB
+LM2596S-ADJ/NOPB
+
+
+
+]
+[
+U1
+QFP50P900X900X160-48N
+STM32F103C8T6
+
+
+
+]
+[
+R5
+TRO SMD 0603
+R_0603 1K
+
+
+
+]
+[
+R4
+TRO SMD 0603
+R_0603 1% 1R
+
+
+
+]
+[
+R3
+TRO SMD 0603
+R_0603 1K
+
+
+
+]
+[
+R2
+TRO SMD 0603
+R_0603 1K
+
+
+
+]
+[
+PC2
+Nut nhan 4 chan cam 6x6
+Button 6x6
+
+
+
+]
+[
+PC1
+Nut nhan 4 chan cam 6x6
+Button 6x6
+
+
+
+]
+[
+LD3
+LED-0805-Green
+LED_GREEN_0805
+
+
+
+]
+[
+LD2
+LED-0805-Red
+LED_RED_0805
+
+
+
+]
+[
+LD1
+LED-0805-Yellow
+LED_YELLOW_0805
+
+
+
+]
+[
+L2
+CDRH127
+33uH
+
+
+
+]
+[
+KF1
+CON2_P196_1729128_TH_ST
+Connector_2_pins
+
+
+
+]
+[
+J2
+JACK DC 5.5
+JACK_5V
+
+
+
+]
+[
+J1
+SO08
+ACS712
+
+
+
+]
+[
+D2
+CAPMP4226X24N
+Diode Zener SS34
+
+
+
+]
+[
+D1
+CAPMP4226X24N
+Diode Zener SS34
+
+
+
+]
+[
+C14
+CAP POL 6032_280
+22uF
+
+
+
+]
+[
+C16
+CAP 0603
+22pF
+
+
+
+]
+[
+C15
+CAP 0603
+22pF
+
+
+
+]
+[
+C13
+CAP ALSMD ELEC 10.3MM H10.5MM LEADSPANMAX10.9MM
+470uF
+
+
+
+]
+[
+C12
+CAP ALSMD 6.6MM H5.4MM
+220uF
+
+
+
+]
+[
+C11
+CAP 0603
+100nF
+
+
+
+]
+[
+C10
+CAP 0603
+1uF
+
+
+
+]
+[
+C9
+CAP 0603
+10nF
+
+
+
+]
+[
+C8
+CAP 0603
+1nF
+
+
+
+]
+[
+C7
+CAP 0603
+4.7uF
+
+
+
+]
+[
+C5
+CAP 0603
+100nF
+
+
+
+]
+[
+C4
+CAP 0603
+100nF
+
+
+
+]
+[
+C3
+CAP 0603
+100nF
+
+
+
+]
+[
+C2
+CAP 0603
+100nF
+
+
+
+]
+[
+C1
+CAP 0603
+100nF
+
+
+
+]
