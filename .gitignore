@@ -3,6 +3,5 @@ Project Logs for*/
 Generated*/          
 History/
 *.BomDoc
-*.PcbDoc
-*.SchDoc
-_Previews/
+*.PcbLib
+*.SchLib
